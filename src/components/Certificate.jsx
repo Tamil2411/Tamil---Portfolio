@@ -3,8 +3,8 @@ import Image from 'next/image';
 import { motion } from 'framer-motion';
 
 const certificate = [
-  { pic: "/images/certificate1.png" },
-  { pic: "/images/certificate2.png" },
+  { pic: "/icons/certificate1.png" },
+  { pic: "/icons/certificate2.png" },
 ];
 
 const Certificate = () => {
