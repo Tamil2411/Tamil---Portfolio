@@ -101,7 +101,7 @@ const Contact = () => {
             required
           ></textarea>
 
-          <div className="sm:col-span-2 text-center mt-4">
+          <div className=" sm:col-span-2 text-center mt-4">
             <button
               type="submit"
               className="bg-blue-400 text-[#0F172A] py-2 px-10 rounded-full shadow-[0_0_12px_3px_rgba(255,255,255,0.30)] hover:text-white hover:bg-[#0F172A] hover:border-2 hover:border-white transition-all duration-300"
@@ -109,6 +109,7 @@ const Contact = () => {
               Submit
             </button>
           </div>
+         
         </form>
       </motion.div>
     </section>
