@@ -43,7 +43,7 @@ const Project = () => {
         </h2>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 max-w-6xl mx-auto">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-7 max-w-6xl mx-auto">
         {project.map((item, index) => (
           <motion.div
             key={index}
@@ -61,7 +61,6 @@ const Project = () => {
             {/* <h1 className="p-2 text-center text-white text-md">{item.title}</h1> */}
             <div className="absolute inset-0 bg-black/30 group-hover:bg-black/60 transition-all duration-500"></div>
 
-            {/* Hover content */}
             <div className="absolute inset-0 flex flex-col items-center justify-center opacity-0 group-hover:opacity-100 transition duration-500 text-center px-4">
               <h3 className="text-lg sm:text-xl font-semibold mb-3">{item.title}</h3>
               <p className="text-sm sm:text-base font-medium mb-4 max-w-[90%] sm:max-w-[90%] md:max-w-[80%]">
