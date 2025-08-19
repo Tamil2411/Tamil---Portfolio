@@ -1,7 +1,7 @@
 "use client";
 import AboutSection from "@/components/AboutSection";
 import Certificate from "@/components/Certificate";
-import Contact from "@/components/Contact";
+import ContactUs from "@/components/ContactUs";
 import HeroSection from "@/components/HeroSection";
 import Navbar from "@/components/Navbar";
 import Project from "@/components/Project";
@@ -31,7 +31,7 @@ export default function Home() {
       <SkillsSection />
       <Project />
       <Certificate />
-      <Contact />
+      <ContactUs />
     </main>
   );
 }

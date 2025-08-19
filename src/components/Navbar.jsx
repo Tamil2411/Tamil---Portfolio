@@ -11,7 +11,7 @@ export default function Navbar() {
     { title: "Skills", path: "#skills" },
     {title:"Project", path: "#project"},
     { title: "Certificate", path: "#certificate" },
-    { title: "Contact", path: "#contact" },
+    { title: "Contact", path: "#contactus" },
   ];
 
   return (

@@ -55,7 +55,6 @@ const HeroSection = () => {
             </a>
           </div>
 
-          {/* Resume Download Button */}
           <div className="flex justify-center md:justify-start">
             <a
               href="/Images/TAMIL resume.pdf"
