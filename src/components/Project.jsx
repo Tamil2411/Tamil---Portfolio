@@ -11,11 +11,17 @@ const project = [
     link: "https://pizzaburg-website.vercel.app/"
   },
   {
-    photo: "/Images/image-slider.jpeg",
-    title: "Image Slider",
-    desc: "A responsive image slider built using HTML, CSS, and JavaScript with smooth navigation controls.",
-    link: "https://image-slider-ten-lake.vercel.app/"
+    photo: "/Images/movies.jpg",
+    title: "QuickShow - Movie Ticket Website",
+    desc: "QuickShow – A React project with a clean and easy-to-use interface like a movie ticket booking app, letting users showcase dynamic content.",
+    link: "https://quickshow.vercel.app/"
   },
+  // {
+  //   photo: "/Images/image-slider.jpeg",
+  //   title: "Image Slider",
+  //   desc: "A responsive image slider built using HTML, CSS, and JavaScript with smooth navigation controls.",
+  //   link: "https://image-slider-ten-lake.vercel.app/"
+  // },
   {
     photo: "/Images/weatherapp.jpeg",
     title: "Weather App",

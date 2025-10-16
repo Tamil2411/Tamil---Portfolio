@@ -57,7 +57,7 @@ const HeroSection = () => {
 
           <div className="flex justify-center md:justify-start">
             <a
-              href="/Images/TAMIL resume.pdf"
+              href="/Images/Tamil Selvan resume.pdf"
               download
               className="inline-flex items-center px-6 py-3 text-[#0F172A] bg-blue-400 rounded-full border border-transparent shadow-[0_4px_20px] shadow-[#3ABEF9]/40 hover:bg-transparent hover:text-white hover:border-[#3ABEF9] transition duration-300"
             >
